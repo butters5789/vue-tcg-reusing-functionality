@@ -1,0 +1,1 @@
+# vue-tcg-reusing-functionality
